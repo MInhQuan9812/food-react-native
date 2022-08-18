@@ -1,0 +1,394 @@
+{
+    "data": {
+        "businesses": [
+            {
+                "id": "P-jpH5zElpgQfTZ4PVyITQ",
+                "alias": "lakeshore-resort-saloon-lakeshore",
+                "name": "Lakeshore Resort Saloon",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2LN4VD7xRviy2mMr-jO4UQ/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/lakeshore-resort-saloon-lakeshore?adjust_creative=HxmfbNHsK20yrwSt9J2SCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HxmfbNHsK20yrwSt9J2SCw",
+                "review_count": 14,
+                "categories": [
+                    {
+                        "alias": "sportsbars",
+                        "title": "Sports Bars"
+                    },
+                    {
+                        "alias": "divebars",
+                        "title": "Dive Bars"
+                    },
+                    {
+                        "alias": "tradamerican",
+                        "title": "American (Traditional)"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 37.2523899835237,
+                    "longitude": -119.173982716342
+                },
+                "transactions": ["delivery"],
+                "price": "$$",
+                "location": {
+                    "address1": "61953 Huntington Lake Rd",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Lakeshore",
+                    "zip_code": "93634",
+                    "country": "US",
+                    "state": "CA",
+                    "display_address": [
+                        "61953 Huntington Lake Rd",
+                        "Lakeshore, CA 93634"
+                    ]
+                },
+                "phone": "+15598933193",
+                "display_phone": "(559) 893-3193",
+                "distance": 11795.944267074245
+            },
+            {
+                "id": "NdJALil0EQd3b8SB-lK-7w",
+                "alias": "seasons-bistro-and-buffalo-bar-fish-camp",
+                "name": "Seasons Bistro and Buffalo Bar",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/an5yiycLNmLaPz6UNlbleg/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/seasons-bistro-and-buffalo-bar-fish-camp?adjust_creative=HxmfbNHsK20yrwSt9J2SCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HxmfbNHsK20yrwSt9J2SCw",
+                "review_count": 137,
+                "categories": [
+                    {
+                        "alias": "tradamerican",
+                        "title": "American (Traditional)"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 37.45462,
+                    "longitude": -119.64348
+                },
+                "transactions": ["delivery"],
+                "location": {
+                    "address1": "48571 Ca-41",
+                    "address2": "",
+                    "address3": null,
+                    "city": "Fish Camp",
+                    "zip_code": "93623",
+                    "country": "US",
+                    "state": "CA",
+                    "display_address": [
+                        "48571 Ca-41",
+                        "Fish Camp, CA 93623"
+                    ]
+                },
+                "phone": "+15596837720",
+                "display_phone": "(559) 683-7720",
+                "distance": 36418.042707783476
+            },
+            {
+                "id": "eQ5r9GeRG1izbR9oQ2op_Q",
+                "alias": "millers-landing-resort-bass-lake",
+                "name": "Miller's Landing Resort",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/35HOm87VruH2jitceZYeiA/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/millers-landing-resort-bass-lake?adjust_creative=HxmfbNHsK20yrwSt9J2SCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HxmfbNHsK20yrwSt9J2SCw",
+                "review_count": 217,
+                "categories": [
+                    {
+                        "alias": "boating",
+                        "title": "Boating"
+                    },
+                    {
+                        "alias": "vacation_rentals",
+                        "title": "Vacation Rentals"
+                    },
+                    {
+                        "alias": "tradamerican",
+                        "title": "American (Traditional)"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 37.298062,
+                    "longitude": -119.536481
+                },
+                "transactions": ["delivery","pickup"],
+                "price": "$$",
+                "location": {
+                    "address1": "37976 Rd 222",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Bass Lake",
+                    "zip_code": "93669",
+                    "country": "US",
+                    "state": "CA",
+                    "display_address": [
+                        "37976 Rd 222",
+                        "Bass Lake, CA 93669"
+                    ]
+                },
+                "phone": "+15596423633",
+                "display_phone": "(559) 642-3633",
+                "distance": 20682.416591452456
+            },
+            {
+                "id": "oqVOtBjZpbkatsyzvMrmfQ",
+                "alias": "lakeshore-resort-restaurant-lakeshore",
+                "name": "Lakeshore Resort Restaurant",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mJcgKw65w0_0cbBqcy8tSA/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/lakeshore-resort-restaurant-lakeshore?adjust_creative=HxmfbNHsK20yrwSt9J2SCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HxmfbNHsK20yrwSt9J2SCw",
+                "review_count": 13,
+                "categories": [
+                    {
+                        "alias": "burgers",
+                        "title": "Burgers"
+                    },
+                    {
+                        "alias": "sandwiches",
+                        "title": "Sandwiches"
+                    },
+                    {
+                        "alias": "newamerican",
+                        "title": "American (New)"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 37.2525183017936,
+                    "longitude": -119.17419533435775
+                },
+                "transactions": ["delivery","pickup"],
+                "location": {
+                    "address1": "61953 Huntington Lake Rd",
+                    "address2": null,
+                    "address3": "",
+                    "city": "Lakeshore",
+                    "zip_code": "93634",
+                    "country": "US",
+                    "state": "CA",
+                    "display_address": [
+                        "61953 Huntington Lake Rd",
+                        "Lakeshore, CA 93634"
+                    ]
+                },
+                "phone": "+15598933193",
+                "display_phone": "(559) 893-3193",
+                "distance": 11775.356757171221
+            },
+            {
+                "id": "Y58wkqUQ_-Kz8_o8qnP15A",
+                "alias": "charles-street-dinner-house-mariposa",
+                "name": "Charles Street Dinner House",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CfDdO02388XApD2oEqQgCQ/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/charles-street-dinner-house-mariposa?adjust_creative=HxmfbNHsK20yrwSt9J2SCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HxmfbNHsK20yrwSt9J2SCw",
+                "review_count": 507,
+                "categories": [
+                    {
+                        "alias": "newamerican",
+                        "title": "American (New)"
+                    },
+                    {
+                        "alias": "steak",
+                        "title": "Steakhouses"
+                    },
+                    {
+                        "alias": "wine_bars",
+                        "title": "Wine Bars"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 37.48545467039154,
+                    "longitude": -119.96607841142622
+                },
+                "transactions": ["delivery"],
+                "price": "$$",
+                "location": {
+                    "address1": "5043 Hwy 140 and 7th St",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Mariposa",
+                    "zip_code": "95338",
+                    "country": "US",
+                    "state": "CA",
+                    "display_address": [
+                        "5043 Hwy 140 and 7th St",
+                        "Mariposa, CA 95338"
+                    ]
+                },
+                "phone": "+12099662366",
+                "display_phone": "(209) 966-2366",
+                "distance": 63187.245679539235
+            },
+            {
+                "id": "l_D9msy8yEAb00dPZiqfIA",
+                "alias": "june-bug-cafe-midpines",
+                "name": "June Bug Cafe",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/46Yif4aLBkvTjYh1_Fn-Gw/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/june-bug-cafe-midpines?adjust_creative=HxmfbNHsK20yrwSt9J2SCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HxmfbNHsK20yrwSt9J2SCw",
+                "review_count": 105,
+                "categories": [
+                    {
+                        "alias": "newamerican",
+                        "title": "American (New)"
+                    },
+                    {
+                        "alias": "breakfast_brunch",
+                        "title": "Breakfast & Brunch"
+                    },
+                    {
+                        "alias": "seafood",
+                        "title": "Seafood"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 37.5744737298908,
+                    "longitude": -119.951261111075
+                },
+                "transactions": ["delivery","pickup"],
+                "price": "$$",
+                "location": {
+                    "address1": "6979A Hwy 140",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Midpines",
+                    "zip_code": "95345",
+                    "country": "US",
+                    "state": "CA",
+                    "display_address": [
+                        "6979A Hwy 140",
+                        "Midpines, CA 95345"
+                    ]
+                },
+                "phone": "+12099666666",
+                "display_phone": "(209) 966-6666",
+                "distance": 66460.49011131628
+            },
+            {
+                "id": "38BRdqGVM5c4s1TuGigD0g",
+                "alias": "silver-lake-resort-cafe-june-lake",
+                "name": "Silver Lake Resort Cafe",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Fa-A0lRWG5caUWykkwNgiA/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/silver-lake-resort-cafe-june-lake?adjust_creative=HxmfbNHsK20yrwSt9J2SCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HxmfbNHsK20yrwSt9J2SCw",
+                "review_count": 122,
+                "categories": [
+                    {
+                        "alias": "cafes",
+                        "title": "Cafes"
+                    },
+                    {
+                        "alias": "tradamerican",
+                        "title": "American (Traditional)"
+                    },
+                    {
+                        "alias": "breakfast_brunch",
+                        "title": "Breakfast & Brunch"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 37.7813702,
+                    "longitude": -119.1296283
+                },
+                "transactions": ["delivery","pickup"],
+                "price": "$$",
+                "location": {
+                    "address1": "6957 Hwy 158",
+                    "address2": "",
+                    "address3": "",
+                    "city": "June Lake",
+                    "zip_code": "93529",
+                    "country": "US",
+                    "state": "CA",
+                    "display_address": [
+                        "6957 Hwy 158",
+                        "June Lake, CA 93529"
+                    ]
+                },
+                "phone": "+17606487525",
+                "display_phone": "(760) 648-7525",
+                "distance": 59291.75719528103
+            },
+            {
+                "id": "h_6uEwJXVhrTKZkDKE8FZA",
+                "alias": "high-country-cafe-mariposa",
+                "name": "High Country Cafe",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8PBVZBKERvXSBx8B1IMs0g/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/high-country-cafe-mariposa?adjust_creative=HxmfbNHsK20yrwSt9J2SCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HxmfbNHsK20yrwSt9J2SCw",
+                "review_count": 141,
+                "categories": [
+                    {
+                        "alias": "cafes",
+                        "title": "Cafes"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 37.4931635880619,
+                    "longitude": -119.974434792701
+                },
+                "transactions": ["delivery"],
+                "price": "$",
+                "location": {
+                    "address1": "5186 Hwy 49 N",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Mariposa",
+                    "zip_code": "95338",
+                    "country": "US",
+                    "state": "CA",
+                    "display_address": [
+                        "5186 Hwy 49 N",
+                        "Mariposa, CA 95338"
+                    ]
+                },
+                "phone": "+12099665111",
+                "display_phone": "(209) 966-5111",
+                "distance": 64197.79348924159
+            },
+            {
+                "id": "ztO9uuR8yQIOFCveEBW2MA",
+                "alias": "the-trading-post-shaver-lake",
+                "name": "The Trading Post",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rM9Qh6kEORBzPspBDN9slQ/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/the-trading-post-shaver-lake?adjust_creative=HxmfbNHsK20yrwSt9J2SCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HxmfbNHsK20yrwSt9J2SCw",
+                "review_count": 129,
+                "categories": [
+                    {
+                        "alias": "newamerican",
+                        "title": "American (New)"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 37.10655,
+                    "longitude": -119.31953
+                },
+                "transactions": ["delivery","pickup"],
+                "price": "$$",
+                "location": {
+                    "address1": "41760 Tollhouse Road",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Shaver Lake",
+                    "zip_code": "93664",
+                    "country": "US",
+                    "state": "CA",
+                    "display_address": [
+                        "41760 Tollhouse Road",
+                        "Shaver Lake, CA 93664"
+                    ]
+                },
+                "phone": "+15598415394",
+                "display_phone": "(559) 841-5394",
+                "distance": 17854.07151612421
+            }
+        ]
+    }
+}

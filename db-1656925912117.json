@@ -1,0 +1,136 @@
+{
+  "data": {
+    "id": "California",
+    "data": [
+      {
+        "id": "P-jpH5zElpgQfTZ4PVyITQ",
+        "alias": "lakeshore-resort-saloon-lakeshore",
+        "name": "Lakeshore Resort Saloon",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2LN4VD7xRviy2mMr-jO4UQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/lakeshore-resort-saloon-lakeshore?adjust_creative=HxmfbNHsK20yrwSt9J2SCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HxmfbNHsK20yrwSt9J2SCw",
+        "review_count": 14,
+        "categories": [
+          {
+            "alias": "sportsbars",
+            "title": "Sports Bars"
+          },
+          {
+            "alias": "divebars",
+            "title": "Dive Bars"
+          },
+          {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 37.2523899835237,
+          "longitude": -119.173982716342
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "61953 Huntington Lake Rd",
+          "address2": "",
+          "address3": "",
+          "city": "Lakeshore",
+          "zip_code": "93634",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+            "61953 Huntington Lake Rd",
+            "Lakeshore, CA 93634"
+          ]
+        },
+        "phone": "+15598933193",
+        "display_phone": "(559) 893-3193",
+        "distance": 11795.944267074245
+      },
+      {
+        "id": "NdJALil0EQd3b8SB-lK-7w",
+        "alias": "seasons-bistro-and-buffalo-bar-fish-camp",
+        "name": "Seasons Bistro and Buffalo Bar",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/an5yiycLNmLaPz6UNlbleg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/seasons-bistro-and-buffalo-bar-fish-camp?adjust_creative=HxmfbNHsK20yrwSt9J2SCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HxmfbNHsK20yrwSt9J2SCw",
+        "review_count": 137,
+        "categories": [
+          {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 37.45462,
+          "longitude": -119.64348
+        },
+        "transactions": [],
+        "location": {
+          "address1": "48571 Ca-41",
+          "address2": "",
+          "address3": null,
+          "city": "Fish Camp",
+          "zip_code": "93623",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+            "48571 Ca-41",
+            "Fish Camp, CA 93623"
+          ]
+        },
+        "phone": "+15596837720",
+        "display_phone": "(559) 683-7720",
+        "distance": 36418.042707783476
+      },
+      {
+        "id": "eQ5r9GeRG1izbR9oQ2op_Q",
+        "alias": "millers-landing-resort-bass-lake",
+        "name": "Miller's Landing Resort",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/35HOm87VruH2jitceZYeiA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/millers-landing-resort-bass-lake?adjust_creative=HxmfbNHsK20yrwSt9J2SCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HxmfbNHsK20yrwSt9J2SCw",
+        "review_count": 217,
+        "categories": [
+          {
+            "alias": "boating",
+            "title": "Boating"
+          },
+          {
+            "alias": "vacation_rentals",
+            "title": "Vacation Rentals"
+          },
+          {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 37.298062,
+          "longitude": -119.536481
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "37976 Rd 222",
+          "address2": "",
+          "address3": "",
+          "city": "Bass Lake",
+          "zip_code": "93669",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+            "37976 Rd 222",
+            "Bass Lake, CA 93669"
+          ]
+        },
+        "phone": "+15596423633",
+        "display_phone": "(559) 642-3633",
+        "distance": 20682.416591452456
+      }
+    ]
+  }
+}
